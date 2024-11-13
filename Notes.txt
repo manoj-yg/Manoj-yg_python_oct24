@@ -1,0 +1,5 @@
+The function name must be verbNoun combination in python we use snake case 
+floor 7.99 is 7
+seal 7.001 is 7 
+round
+tuple is immutable
